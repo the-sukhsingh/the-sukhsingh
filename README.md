@@ -1,6 +1,4 @@
 <br clear="both">
-###
-
 <h5 align="left">👋 Hi, I’m @the-sukhsingh<br>👀 I’m interested in AI/ML<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on AI models<br>📫 How to reach me sukhaji65@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: Serious</h5>
 
 ###
