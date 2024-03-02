@@ -29,8 +29,3 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/the-sukhsingh/the-sukhsingh/snake.svg" alt="Snake animation" />
-
-###
