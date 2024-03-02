@@ -1,7 +1,4 @@
 <br clear="both">
-
-<img align="right" height="210" src="https://avatars.githubusercontent.com/u/127196002?v=4"  />
-
 ###
 
 <h5 align="left">👋 Hi, I’m @the-sukhsingh<br>👀 I’m interested in AI/ML<br>🌱 I’m currently learning Python<br>💞️ I’m looking to collaborate on AI models<br>📫 How to reach me sukhaji65@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: Serious</h5>
