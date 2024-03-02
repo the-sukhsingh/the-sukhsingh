@@ -31,6 +31,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/the-sukhsingh/the-sukhsingh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/the-sukhsingh/the-sukhsingh/snake.svg" alt="Snake animation" />
 
 ###
